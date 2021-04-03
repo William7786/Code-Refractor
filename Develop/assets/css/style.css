@@ -11,23 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
-p {
-    font-size: 16px;
-}
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 /*This is the styling for the header*/
 .header {
     padding: 20px;
@@ -61,7 +45,15 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*This is the styling for the link anchors*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/*This is the styling for the paragraph function*/
+p {
+    font-size: 16px;
+}
 /*This is the styling to the hero image*/
 .hero {
     height: 800px;
@@ -71,6 +63,16 @@ p {
     background-size:cover;
     background-position:center;
 }
+/*This is the styling for the search image optimazation and social media marketing*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/*This is the styling for online reputation management*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 
 .content {
@@ -78,7 +80,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/*These are the benifits*/
+/*This is the styling for the benifit values, headers, images */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,7 +111,7 @@ p {
 }
 
 
-/*This is the area for i*/
+/*This is the area for service styling, service img styling and service header styling*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;

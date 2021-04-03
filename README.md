@@ -8,4 +8,5 @@ Added nav and more defined title elements.
 Added figure element to represent the images.
 Added section elements in the main section of the document.
 Changed div to figure in the main section of the document.
-Fixed spelling error in link
+Fixed spelling error in link.
+Reorganized css to fit semantic stucture
