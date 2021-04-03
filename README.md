@@ -9,4 +9,6 @@ Added figure element to represent the images.
 Added section elements in the main section of the document.
 Changed div to figure in the main section of the document.
 Fixed spelling error in link.
-Reorganized css to fit semantic stucture
+Reorganized css to fit semantic stucture.
+Added sufficient img alternatives.
+![file:///C:/Users/12522/Pictures/Camera%20Roll/Horiseon-Social-Solutions.png]
