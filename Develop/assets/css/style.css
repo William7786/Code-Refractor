@@ -78,7 +78,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/*These are the benifits. I chose to simplify all benifits*/
+/*These are the benifits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,7 +109,7 @@ p {
 }
 
 
-/*To minimize the amount of code I also combined .search-engine-optimization, .online-reputation-management, .social-media-marketing to all use the same line of code.*/
+/*This is the area for i*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
